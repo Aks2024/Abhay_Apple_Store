@@ -1,0 +1,153 @@
+{
+   "store":[
+      {
+         "id":"1",
+         "name":"mac",
+         "icon":"mac-menu.png",
+         "products":[
+            {
+               "id":"1_1",
+               "name":"MacBook Air 13",
+               "icon":"macbook13.jpeg",
+               "price":"99900"              
+            },
+            {
+              
+               "id":"1_2",
+               "name":"MacBook Air 13 and 15",
+               "icon":"macbook13.jpeg",
+               "price":"114900" 
+            },
+            {
+              
+               "id":"1_3",
+               "name":"MacBook Pro 14 and 16",
+               "icon":"macbook13&15.jpeg",
+               "price":"169900" 
+            }
+         ]
+      },
+      {
+         "id":"2",
+         "name":"ipad",
+         "icon":"ipad-menu.jpg",
+         "products":[
+            {
+               "id":"2_1",
+               "name":"iPad Pro",
+               "icon":"ipad-pro.jpg",
+               "price":"81900"              
+            },
+            {
+              
+               "id":"2_2",
+               "name":"iPad Air",
+               "icon":"iPad-air.jpeg",
+               "price":"59900" 
+            },
+            {
+              
+               "id":"2_3",
+               "name":"iPad Mini",
+               "icon":"ipad-mini.jpeg",
+               "price":"49900" 
+            }
+         ]
+      },
+      {
+         "id":"3",
+         "name":"iphone",
+         "icon":"iphone-menu.png",
+         "products":[
+            {
+               "id":"3_1",
+               "name":"iPhone 15 Pro",
+               "icon":"i15.png",
+               "price":"134900"              
+            },
+            {
+              
+               "id":"3_2",
+               "name":"iPhone 15",
+               "icon":"ii14.jpg",
+               "price":"79900" 
+            },
+            {
+              
+               "id":"3_3",
+               "name":"iPhone 14",
+               "icon":"iphone-14.png",
+               "price":"69900" 
+            },
+            {
+              
+               "id":"3_4",
+               "name":"iPhone 13",
+               "icon":"ii14.jpg",
+               "price":"58900" 
+            }
+         ]
+      },
+      {
+         "id":"4",
+         "name":"watch",
+         "icon":"watch-menu.jpeg",
+         "products":[
+            {
+               "id":"4_1",
+               "name":"Apple Watch Series 9 GPS+",
+               "icon":"watch-1.png",
+               "price":"39900"              
+            },
+            {
+              
+               "id":"4_2",
+               "name":"Apple Watch Series 8 GPS+",
+               "icon":"watch-2.png",
+               "price":"31900" 
+            },
+            {
+              
+               "id":"4_3",
+               "name":"Apple Watch SE",
+               "icon":"watch-3.png",
+               "price":"27900" 
+            },
+            {
+              
+               "id":"4_4",
+               "name":"Apple Watch Ultra 2",
+               "icon":"watch-4.jpeg",
+               "price":"29900" 
+            }
+         ]
+      },
+      {
+         "id":"5",
+         "name":"AirPods",
+         "icon":"airpods-menu.jpeg",
+         "products":[
+            {
+               "id":"5_1",
+               "name":"Air Pods Pro(3rd Gen)",
+               "icon":"air1.jpeg",
+               "price":"22999"              
+            },
+            {
+              
+               "id":"5_2",
+               "name":"Air Pods Pro(2rd Gen)",
+               "icon":"air2.jpeg",
+               "price":"17999" 
+            },
+            {
+              
+               "id":"5_3",
+               "name":"Air Pods",
+               "icon":"air3.jpeg",
+               "price":"12999" 
+            }
+         ]
+      }
+   ]
+ }
